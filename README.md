@@ -1,7 +1,7 @@
 <h1 align="center">Food-Donor Mobile Backend Server</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/manuel2u/mobile-server?color=56BEB8">
+<img alt="Github top language" src="https://img.shields.io/github/languages/top/food-donor/mobile-server?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/manuel2u/food-donor/mobile-server?color=56BEB8">
 
